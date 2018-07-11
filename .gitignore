@@ -1,0 +1,9 @@
+*.DS_Store
+*.vscode
+*.dSYM
+Engine/temp/*
+Engine/platformer
+Engine/platformer.exe
+Engine/tile_editor
+Engine/tile_editor.exe
+__pycache__/
